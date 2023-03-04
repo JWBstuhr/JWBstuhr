@@ -1,5 +1,5 @@
 ## Hello!
-I'm Sophia. (She/Her)   
+I'm Katherine. (She/Her)   
 I'm a trans girl who programs mostly for fun.   
 As in, I only really program in whatever language interests me the most at the time, unless I have a specific idea in mind.   
 If I do, then I use one of the two things most familiar to me: Scratch and Lua (ComputerCraft: Tweaked & CraftOS-PC).   
